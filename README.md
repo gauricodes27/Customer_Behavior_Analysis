@@ -100,7 +100,7 @@ The Power BI dashboard (`customer_behavior_dashboard.pbix`) includes:
 - **Charts:** customers by subscription status, revenue and sales by category, revenue and sales by age group
 - **Slicers:** subscription status, gender, category, shipping type
 
-![Customer Behavior Dashboard](images/dashboard.png)
+![Customer Behavior Dashboard](dashboard.png)
 
 ---
 
